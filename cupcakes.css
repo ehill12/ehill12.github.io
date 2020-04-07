@@ -89,6 +89,11 @@ article {
     padding: 2%;
 }
 
+.buy {
+    float: right;
+    width: 50%;
+}
+
 footer {
     color: black;
     text-align: center;
